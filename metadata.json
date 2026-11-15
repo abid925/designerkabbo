@@ -1,0 +1,6 @@
+{
+  "name": "Kabbo — Jersey & Apparel Designer Portfolio",
+  "description": "Portfolio showcase for Kabbo, a custom jersey and sportswear graphic designer specializing in Adobe Photoshop and Adobe Illustrator kit designs, vector crests, and print-ready sublimation tech packs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
